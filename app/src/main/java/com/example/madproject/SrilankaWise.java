@@ -53,6 +53,5 @@ public class SrilankaWise extends AppCompatActivity {
         }
 
     }
-    //hhfhfidhdihf
-
+    //tyutuyututyu5
 }
