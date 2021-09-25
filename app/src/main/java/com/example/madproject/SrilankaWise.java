@@ -18,10 +18,10 @@ public class SrilankaWise extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_srilanka_wise);
-        tvConfirmed=findViewById(R.id.tv_confirmedS);
-        tvDeaths=findViewById(R.id.tv_deathsS);
-        tvRecovered=findViewById(R.id.tv_recoveredS);
-        tvDate=findViewById(R.id.tv_dateS);
+        tvConfirmed=findViewById(R.id.tv_confirmed);
+        tvDeaths=findViewById(R.id.tv_deaths);
+        tvRecovered=findViewById(R.id.tv_recovered);
+        tvDate=findViewById(R.id.tv_date);
 
         viewProvince();
     }
@@ -53,7 +53,9 @@ public class SrilankaWise extends AppCompatActivity {
         }
 
     }
-    //hhfhfidhdihf
-//tyutuutyu
-    //yuytuyuytutyuy
+
+    public void goHome(View view){
+        Intent intent = new Intent(this,MainActivity.class);
+        startActivity(intent);
+    }
 }

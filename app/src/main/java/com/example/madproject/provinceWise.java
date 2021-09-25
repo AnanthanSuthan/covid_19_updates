@@ -2,9 +2,12 @@ package com.example.madproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -21,10 +24,10 @@ public class provinceWise extends AppCompatActivity {
         setContentView(R.layout.activity_province_wise);
         Log.d(TAG,"onCreate: started");
         tvProvince = findViewById(R.id.province_name);
-        tvConfirmed=findViewById(R.id.tv_confirmedS);
-        tvDeaths=findViewById(R.id.tv_deathsS);
-        tvRecovered=findViewById(R.id.tv_recoveredS);
-        tvDate=findViewById(R.id.tv_dateS);
+        tvConfirmed=findViewById(R.id.tv_confirmed);
+        tvDeaths=findViewById(R.id.tv_deaths);
+        tvRecovered=findViewById(R.id.tv_recovered);
+        tvDate=findViewById(R.id.tv_date);
 
         getIncomingIntent();
     }
@@ -70,6 +73,14 @@ public class provinceWise extends AppCompatActivity {
             tvDate.setText(date);
         }
 
+    }
+    public void goBack(View view){
+        Intent intent = new Intent(this,provinces.class);
+        startActivity(intent);
+    }
+    public void goHome(View view){
+        Intent intent = new Intent(this,MainActivity.class);
+        startActivity(intent);
     }
 
 }

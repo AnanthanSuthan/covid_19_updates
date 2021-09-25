@@ -13,4 +13,5 @@
     <string name="etConfirmed" />
     <string name="etDeaths" />
     <string name="etRecovered" />
+    <string name="add">ADD</string>
 </resources>

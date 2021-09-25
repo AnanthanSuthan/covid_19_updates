@@ -14,9 +14,6 @@
         <activity
             android:name=".CovidUpdatesAdmin"
             android:exported="true" />
-        <activity
-            android:name=".addmin_srilanka"
-            android:exported="true" />
         <activity android:name=".provinceWise" />
         <activity
             android:name=".provinces"

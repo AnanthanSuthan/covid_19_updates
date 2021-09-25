@@ -5,17 +5,26 @@
       <map>
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1140625" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/box.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_bar.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_button.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_button1.xml" value="0.1140625" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_button2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_button3.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_button_admin.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/custom_button_curcle.xml" value="0.17407407407407408" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1140625" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1140625" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_addmin_srilanka.xml" value="0.17" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_covid_updates_admin.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_covid_updates_admin.xml" value="0.2" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_province_wise.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_province_wise.xml" value="0.2" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_provinces.xml" value="0.25" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_srilanka_wise.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/activity_srilanka_wise.xml" value="0.2" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/fragment_frag_provinces.xml" value="0.1" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/fragment_frag_srilanka_wise.xml" value="0.19" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/layout/layout_list.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MADProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1140625" />
       </map>
     </option>
   </component>
